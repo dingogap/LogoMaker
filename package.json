@@ -1,0 +1,27 @@
+{
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "description": "CLI App that builds SVG Logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Peter Medbury <peter.medbury@dingogap.net.au>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingogap/LogoMaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dingogap/LogoMaker/issues"
+  },
+  "homepage": "https://github.com/dingogap/LogoMaker#readme"
+}
