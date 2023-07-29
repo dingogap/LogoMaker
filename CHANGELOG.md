@@ -7,3 +7,4 @@
 5. Created buildLogo.js in the lib folder to hold code to control logo build
 6. Add code to ask questions and write the Logo to file
 7. Added shape classes and code to render logos
+8. Parameterised Triangle polygon points
