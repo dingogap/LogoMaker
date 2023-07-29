@@ -8,3 +8,4 @@
 6. Add code to ask questions and write the Logo to file
 7. Added shape classes and code to render logos
 8. Parameterised Triangle polygon points
+9. added & tested Jest test script, testing each log shape was generated correctly
