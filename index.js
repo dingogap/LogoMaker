@@ -1,6 +1,7 @@
 // Reference Packages
 const inquirer = require("inquirer");
 const fs = require("fs");
+const logoDefintion = require('./lib/svgStructure.js')
 
 // Include external js files
 const questions = require('./lib/questions.js');
