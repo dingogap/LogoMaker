@@ -11,3 +11,5 @@
 9. added & tested Jest test script, testing each log shape was generated correctly
 10. Testing ways to derive logo positioning
 11. Looking at ways to make SVG a class rather than just functions
+12. Decided to leave as is for simplicity.
+13. Confirmed that Logo size & position could be generated automatically knowing the container size and the logo diameter  
