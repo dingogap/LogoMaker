@@ -9,3 +9,5 @@
 7. Added shape classes and code to render logos
 8. Parameterised Triangle polygon points
 9. added & tested Jest test script, testing each log shape was generated correctly
+10. Testing ways to derive logo positioning
+11. Looking at ways to make SVG a class rather than just functions
