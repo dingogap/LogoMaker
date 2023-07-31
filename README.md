@@ -30,7 +30,7 @@ The Project is started from the CLI by running 'node index.js'. You will be prom
 REAME Generator is available under the MIT License license. See the [LICENSE](https://opensource.org/licenses/MIT) file for more info.
 
 ## Contributing
-Contributors are welcome.Feel free to clone or fork the project. Please let me know how you get on.
+Contributors are welcome. Feel free to clone or fork the project. Please let me know how you get on.
 
 ## Tests
 Automated testing is provided to ensure the Logo Generator is working correctly. Jest v24.9.0 is used for testing. The test script is shapes.test.js located in the lib folder. shapes.test.js attempts to generate each of the 3 provided shapes (circle, square & triangle) and report success or any arrors. You can confirm functionality from the CLI using this command: 'npm run test'. 
