@@ -13,7 +13,7 @@ const fileName = "./examples/logo.svg"
 // Start Processing
 init();
 
-// Intialise Processing - Ask Questions & when answered build logo
+// Intialise Processing - Ask Questions & when answered generate the logo code & write it to file 
 function init() {
     inquirer
         .prompt(questions)

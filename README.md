@@ -17,6 +17,8 @@ This node.js application will build SVG Logos on demand. Logos can be in the sha
 ## Video Demonstration
 Click the link to view the [Demonstration Video][def1]
 
+
+![Demonstration Video](assets/video/svgLogoGenerator.gif)
 ## Installation
 The SVG Logo Generator requires node.js & Inquirer v8.2.4 to be installed. The application also uses Jest v24.9.0 to confirm functionality. You can clone the package from the GitHub Repository. Install Inquirer & Jest by running npm install from the CLI.
 
@@ -40,4 +42,17 @@ If you have questions about this project or would like more information you can 
   
 You can see more of my work in my [Github Repository](https://github.com/dingogap).
 
+## Resources Used
+1. Bootcamp Materials - Lesson Material from Weeks 1 - 10
+2. Prior knowledge and experience
+3. [Inquirer.js][def2] Documentation
+4. [Jest][def3] Documentation
+5. [SVG Tutorial][def4] on MDM
+6. [Node.js Exports Shortcut][def5] Documentation
+
+
 [def1]: https://vimeo.com/849850517
+[def2]: https://www.npmjs.com/package/inquirer
+[def3]: https://jestjs.io/docs/29.4/getting-started
+[def4]: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started
+[def5]: https://nodejs.org/api/modules.html#exports-shortcut
